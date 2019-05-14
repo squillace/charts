@@ -1,3 +1,4 @@
+apiVersion: v1
 name: gcloud-sqlproxy
 version: 0.6.1
 appVersion: 1.11

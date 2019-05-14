@@ -1,3 +1,4 @@
+apiVersion: v1
 name: gcloud-endpoints
 # This chart has been deprecated due to inactivity and failing e2e tests. PR #2149 is an example of this.
 # This Chart has been deprecated according to the process described in PROCESSES.md. Check that file to

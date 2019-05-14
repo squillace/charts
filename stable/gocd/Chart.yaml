@@ -1,3 +1,4 @@
+apiVersion: v1
 name: gocd
 home: https://www.gocd.org/
 version: 1.9.1

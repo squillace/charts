@@ -1,3 +1,4 @@
+apiVersion: v1
 name: cosbench
 version: 1.0.0
 appVersion: 0.0.6

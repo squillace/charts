@@ -1,3 +1,4 @@
+apiVersion: v1
 name: percona-xtradb-cluster
 version: 0.7.0
 appVersion: 5.7.19

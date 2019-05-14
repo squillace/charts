@@ -1,3 +1,4 @@
+apiVersion: v1
 name: consul
 home: https://github.com/hashicorp/consul
 version: 3.6.1

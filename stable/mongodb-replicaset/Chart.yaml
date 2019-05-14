@@ -1,3 +1,4 @@
+apiVersion: v1
 name: mongodb-replicaset
 home: https://github.com/mongodb/mongo
 version: 3.9.3

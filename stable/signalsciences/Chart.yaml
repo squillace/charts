@@ -1,3 +1,4 @@
+apiVersion: v1
 name: signalsciences
 home: https://signalsciences.com
 icon: https://dashboard.signalsciences.net/static/images/logo-icon-color.svg

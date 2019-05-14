@@ -1,3 +1,4 @@
+apiVersion: v1
 name: graylog
 home: https://www.graylog.org
 version: 0.1.4

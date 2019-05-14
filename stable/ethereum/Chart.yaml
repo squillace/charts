@@ -1,3 +1,4 @@
+apiVersion: v1
 name: ethereum
 version: 0.1.4
 description: private Ethereum network Helm chart for Kubernetes

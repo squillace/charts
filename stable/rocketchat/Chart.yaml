@@ -1,3 +1,4 @@
+apiVersion: v1
 name: rocketchat
 version: 0.3.4
 appVersion: 0.74.2

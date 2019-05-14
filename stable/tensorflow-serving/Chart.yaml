@@ -1,3 +1,4 @@
+apiVersion: v1
 name: tensorflow-serving
 home: https://github.com/kubernetes/charts
 version: 0.1.2
